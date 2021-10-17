@@ -1,3 +1,8 @@
+### Notes
+Link for the tutorial followed: https://developers.sap.com/mission.btp-application-cap-e2e.html
+
+### Learnings
+
 # Getting Started
 
 Welcome to your new project.
